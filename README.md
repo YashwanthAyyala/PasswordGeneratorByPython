@@ -10,4 +10,4 @@ Features:
 
 Customizable password length: Users can specify the desired length of the generated password.
 Random password generation: The generator uses randomization to ensure the unpredictability and security of the generated passwords.
-Support for various character types: The generated passwords include a mix of uppercase letters, lowercase letters, digits, and special characters to enhance security.
+Support for various character types: The generated passwords include a mix of uppercase letters, lowercase letters, digits,and special characters to enhance security.
